@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Matlab, Scientific Python Modules, ML&AI in Astronomy.**
 
-- 👯 I’m looking to collaborate on **IoT Device for Flood warning**
+- 👯 I’m looking to collaborate on **Various Astronomy Python Related Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28](github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28)
 
