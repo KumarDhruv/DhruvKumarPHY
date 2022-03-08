@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Kumar</h1>
 
-<h3 align="center">I am a UnderGrad Physics major from NIT Agartala, India</h3>
+<h3 align="center">I am a UnderGrad Physics major at NIT Agartala, India</h3>
 
 <img width="1138" alt="Screenshot 2022-02-26 at 4 17 52 PM" src="https://user-images.githubusercontent.com/99118678/157015533-b9277574-a5de-4407-98f4-bdb0df73e082.png">
 
