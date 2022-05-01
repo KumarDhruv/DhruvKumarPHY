@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28](github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28)
 
-- 📝 I regularly write articles on [dhruvgarg37890.wixsite.com/lifeofastudent](dhruvgarg37890.wixsite.com/lifeofastudent)
+- 📝 I regularly write articles on [dhruvgarg37890.wixsite.com/lifeofastudent](https://dhruvgarg37890.wixsite.com/lifeofastudent)
 
 - 💬 Ask me about **Physics, Astronomy, High Energy Physics, Robotics and Aeronautics**
 
