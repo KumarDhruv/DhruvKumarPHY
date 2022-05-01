@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Various Astronomy Python Related Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28](github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28)
+- 👨‍💻 All of my projects are available at [github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28](https://github.com/DhruvKumarPHY)
 
 - 📝 I regularly write articles on [dhruvgarg37890.wixsite.com/lifeofastudent](https://dhruvgarg37890.wixsite.com/lifeofastudent)
 
