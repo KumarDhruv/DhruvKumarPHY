@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkumarphy" alt="dhruvkumarphy" /></a> </p>
 
-- 🔭 I’m currently working on **Nuclear Propulsion**
+- 🔭 I’m currently working on **Hubble Tension (One of the biggest problem to address yeah in Cosmology.)**
 
 - 🌱 I’m currently learning **Matlab, Scientific Python Modules, ML&AI in Astronomy.**
 
@@ -24,6 +24,8 @@
 - 👨‍💻 All of my projects are available at [github.com/DhruvKumarPHY?tab=overview&from=2022-02-01&to=2022-02-28](https://github.com/DhruvKumarPHY)
 
 - 📝 I regularly write articles on [dhruvgarg37890.wixsite.com/lifeofastudent](https://dhruvgarg37890.wixsite.com/lifeofastudent)
+
+- This is my YouTube Channel Link where I make videos erelated to programming with Python and do some cool projects reated to cosmology, astrophysics and Physics. YouTube link - [Coding My Universe] https://www.youtube.com/channel/UCfiRaCS6BpjlDf3VoGUk9fA 
 
 - 💬 Ask me about **Physics, Astronomy, High Energy Physics, Robotics and Aeronautics**
 
