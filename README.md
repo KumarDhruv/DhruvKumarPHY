@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Hubble Tension (One of the biggest problem to address yeah in Cosmology.)**
 
-- 🌱 I’m currently learning **Matlab, Scientific Python Modules, ML&AI in Astronomy.**
+- 🌱 I’m currently learning **Matlab, Scientific Python Modules and application of ML, DL & AI in Astronomy.**
 
 - 👯 I’m looking to collaborate on **Various Astronomy Python Related Projects**
 
