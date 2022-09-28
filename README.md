@@ -2,6 +2,10 @@
 
 <h3 align="center">I am a UnderGrad Physics major at NIT Agartala, India</h3>
 
+
+<img width="682" alt="Screenshot 2022-09-26 at 9 22 39 AM" src="https://user-images.githubusercontent.com/99118678/192742226-c1be03f4-5c2b-4816-892a-64eb3afc39e5.png">
+
+
 <img width="1138" alt="Screenshot 2022-02-26 at 4 17 52 PM" src="https://user-images.githubusercontent.com/99118678/157015533-b9277574-a5de-4407-98f4-bdb0df73e082.png">
 
 <img width="1384" alt="Screenshot 2022-01-21 at 10 17 29 PM" src="https://user-images.githubusercontent.com/99118678/161391650-71b9f520-5cde-4942-83d9-0c36ecdb42a1.png">
